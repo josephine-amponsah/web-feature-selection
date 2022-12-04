@@ -21,3 +21,6 @@ Data was obtained from Kaggle.
 **Libraries:** pandas, scipy, numpy, statsmodels
 
 **Skills:** data cleaning, A/B/C.. testing(chi-square testing)
+
+
+
